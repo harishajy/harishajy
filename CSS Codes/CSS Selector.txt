@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title> CSS SELECTOR AND ITS TYPE </title>
+<style>
+h1
+{
+color:green;
+}
+.test
+{
+color:blue;
+}
+
+#drop
+{
+background-color:grey;
+height:300px;
+}
+</style>
+</head>
+<body>
+<div id="drop">
+<h1> CSS SELECTOR </h1>
+<h2 class:"test"> CSS SELECTOR </h2>
+<h3 class:"test"> CSS SELECTOR </h3>
+</body>
+</head>
+</html>

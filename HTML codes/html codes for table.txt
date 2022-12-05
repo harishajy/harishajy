@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<title> TABLES </title>
+</head>
+<h1> HTML TABLES </h1>
+<body>
+<style>
+      <span>{
+	         color:red;
+			           }
+</style>
+<table border="20" cell padding="100">
+<tr>
+<thead>
+<th> FORMERS </th>
+<th> AGE </th>
+<th> PLACE </th>
+</thead>
+</th>
+<tr>
+<tbody>
+<td> HARISH </td>
+<td> 24 </td>
+<td> KUMBAKONAM </td>
+</tbody>
+<tbody>
+<td> MAGIL </td>
+<td> 21 </td>
+<td> ERODE </td>
+</tbody>
+<tr>
+<tfoot>
+<td> CLIENT FOR US </td>
+</tfoot>
+</td>
+</table>
+
+
+
+

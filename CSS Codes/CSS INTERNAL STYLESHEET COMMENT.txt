@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title> COMMENTS </title>
+<style>
+/* THIS IS internal stylesheet COMMENTS,THIS CANNOT DISPLAY IN WEB PAGE*/
+</style>
+<link rel="stylesheet" href="sty1.css">
+
+</head>
+<body>
+
+</body>
+</head>
+</html>

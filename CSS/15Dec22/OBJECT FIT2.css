@@ -1,0 +1,196 @@
+/* THIRD TASK2 */
+body
+{
+	position:fixed;	
+	border:2px solid grey;
+	padding:40px;
+	text-align:center;
+}
+.fit
+{
+	width:500px;
+	height:500px;
+	display:flex;
+}
+.l1
+{
+	position:absolute;
+	top:180px;
+	right:70px;
+	font-size:10px;
+}
+.l2
+{
+	position:absolute;
+	top:400px;
+	right:45px;
+	font-size:10px;
+}
+.l3
+{
+	position:absolute;
+	top:480px;
+	right:245px;
+	font-size:10px;
+}
+.l4
+{
+	position:absolute;
+	top:380px;
+	left:60px;
+	font-size:10px;
+}
+.l5
+{
+	position:absolute;
+	top:200px;
+	left:50px;
+	font-size:10px;
+}
+.l6
+{
+	position:absolute;
+	top:63px;
+	left:255px;
+	font-size:10px;
+}
+
+
+.g1
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:165px;
+	right:185px;
+	font-size:8px;
+	color:white;
+}
+.g2
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:200px;
+	right:155px;
+	font-size:8px;
+	color:white;
+
+}
+.g3
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:255px;
+	right:138px;
+	font-size:8px;
+	color:white;
+
+}
+.g4
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:308px;
+	right:146px;
+	font-size:8px;
+	color:white;
+}
+
+.y1
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:380px;
+	right:220px;
+	font-size:8px;
+	color:black;
+}
+.y2
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:393px;
+	right:270px;
+	font-size:8px;
+	color:black;
+}
+.y3
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:379px;
+	right:317px;
+	font-size:8px;
+	color:black;
+}
+.y4
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:348px;
+	right:356px;
+	font-size:8px;
+	color:black;
+}
+
+
+.b1
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:265px;
+	right:405px;
+	font-size:8px;
+	color:white;
+}
+.b2
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:220px;
+	right:395px;
+	font-size:8px;
+	color:white;
+}.b3
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:177px;
+	right:370px;
+	font-size:8px;
+	color:white;
+}.b4
+{
+	text-align:left;
+	list-style:none;
+	position:absolute;
+	top:149px;
+	right:310px;
+	font-size:8px;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

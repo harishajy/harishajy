@@ -1,0 +1,76 @@
+/* FORTH TASK */
+body
+{
+	position:fixed;	
+	border:2px solid grey;
+	padding:20px;
+	text-align:center;
+}
+.fit
+{
+	width:1000px;
+	height:500px;
+	display:flex;
+}
+.l1
+{
+	position:absolute;
+	top:24px;
+	left:140px;
+	font-size:14px;
+	color:white;
+}
+.l2
+{
+	position:absolute;
+	top:24px;
+	left:306px;
+	font-size:14px;
+	color:white;
+}
+.l3
+{
+	position:absolute;
+	top:33px;
+	left:493px;
+	font-size:14px;
+	color:white;
+}
+.l4
+{
+	position:absolute;
+	top:33px;
+	left:667px;
+	font-size:14px;
+	color:white;
+}
+.l5
+{
+	position:absolute;
+	top:33px;
+	left:865px;
+	font-size:14px;
+	color:white;
+}
+
+.S1
+{
+	position:absolute;
+	top:78px;
+	left:4px;
+	font-size:28px;
+	color:grey;
+	writing-mode:vertical-lr;
+	text-orientation:bottomright;
+}
+.S2
+{
+	position:absolute;
+	top:64px;
+	left:949px;
+	font-size:28px;
+	color:grey;
+	writing-mode:vertical-lr;
+	text-orientation:bottomright;
+}
+

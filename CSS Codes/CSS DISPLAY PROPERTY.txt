@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title> CSS DISPLAY PROPERTY </title>
+<link rel ="stylesheet" type="text/css" href="CSS DISPLAY PROPERTY2.css">
+</head>
+<body>
+<ul>
+<li> HOME </li>
+<li> ABOUT</li>
+<li> WEB DESIGN </li>
+<li> DIGITAL MARKETING </li>
+<li> CONTACT US </li>
+</UL>
+<span> TEST1</span>
+<span> TEST2</span>
+<span> TEST3</span>
+<span> TEST4</span>
+<span> TEST5</span>
+
+</body>
+</html>

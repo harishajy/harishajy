@@ -1,0 +1,13 @@
+/* CSS DISPLAY PROPERTY */
+body
+{
+font size:24px;
+}
+ul li
+{
+    dispLay:inline;
+	}
+span
+{
+	display:block;
+}

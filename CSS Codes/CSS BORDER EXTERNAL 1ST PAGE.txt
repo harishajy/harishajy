@@ -1,0 +1,16 @@
+ <!doctype html>
+<html>
+<head>
+<title> CSS BORDER PROPERTY </title>
+<link rel ="stylesheet" type="text/css" href="CSS BORDER PROPERTY 2.css">
+</head>
+<body>
+<h1 class="it1"> I'M HARISH <h1>
+<h2 class="it2"> I'M FROM KUMBAKONAM <h2>
+<h3 class="it3"> I'M LEARNING CSS <h3>
+<h4 class="it4"> NOW I'M IN BANGALORE  <h4>
+<h5 class="it5"> I'M DOING MY WORK <h5>
+<h6 class="it6"> I'M GOING TO MY WORK PLACE <h6>
+
+</body>
+</html>

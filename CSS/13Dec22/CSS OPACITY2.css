@@ -1,0 +1,15 @@
+/* CSS OPACITY */
+img:hover
+{
+	opacity:0.5;
+}
+#sec
+{
+	height:300px;
+	width:400px;
+	background-color:skyblue;
+}
+#sec:hover
+{
+	opacity:0.5;
+}

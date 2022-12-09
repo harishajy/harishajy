@@ -1,0 +1,20 @@
+/* BORDER CSS PROPERTY */
+
+.it1
+{
+	border-style:solid dashed double dotted;
+	border-color:red green gold blue;
+	border-radius:50px
+}
+.it2
+{
+	border-style:double dotted;
+	border-color:red green;
+	border-radius:10px 10px 10px 10px;
+}
+.it3
+{
+	border-style:double;
+	border-width:30px 10px 30px 10px;
+	border-radius:30px 30px
+}

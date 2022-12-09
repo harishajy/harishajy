@@ -1,0 +1,45 @@
+/*CSS TEXT PROPERTY*/
+h1
+{
+	  color:red;
+	  background-color:yellow;
+	  text-align:center;
+}
+h2 
+{
+	color:blue;
+	text-align:right;
+}
+h3
+{
+	color:brown;
+	text-decoration:underline;
+	text-transform:uppercase;
+    text-indent:150px;
+	letter-spacing:5px;
+	line-height:2;
+	word-spacing:10px;
+	text-shadow:1px 5px gold;
+}
+.button 
+{
+	color:blue;
+    background-color:gold;
+	padding:5px;
+	margin:20px;
+	width:100px;
+	text-decoration:line-through;
+	text-transform:lowercase;
+}
+p 
+{
+	color:orange;
+	font-size:20px;
+	text-decoration:overline;
+	text-transform:capitalize;
+}
+a 
+{
+	text-decoration:none;
+	text-transform:capitalize;
+}

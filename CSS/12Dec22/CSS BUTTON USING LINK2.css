@@ -1,0 +1,44 @@
+/* CSS BUTTON USING LINK */
+body
+{
+     margin-top:50px;
+}
+a 
+{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+.button1
+{
+	background-color:red;
+	padding:15px 20px;
+}
+.button1:hover
+{
+	background-color:green;
+	color:white;
+}
+.button2
+{
+	border:2px solid green;
+	padding :15px 20px;
+	border-radius:50px;
+}
+.button2:hover
+{
+	background-color:green;
+	color:white;
+}
+.button3
+{
+	border :3px solid ;
+	padding:15px 20px;
+	border-radius:20%;
+
+}
+.button3:hover
+{
+	background-color:green;
+	color:white;
+}

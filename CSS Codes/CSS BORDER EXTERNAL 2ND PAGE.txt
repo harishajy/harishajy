@@ -1,0 +1,26 @@
+/* BORDER CSS PROPERTY */
+
+.it1
+{
+border-style:solid;
+}
+.it2
+{
+border-style:double;
+}
+.it3
+{
+border-style:dashed;
+}
+.it4
+{
+border-style:dotted;
+}
+.it5
+{
+border-style:inset;
+}
+.it6
+{
+border-style:outset;
+}

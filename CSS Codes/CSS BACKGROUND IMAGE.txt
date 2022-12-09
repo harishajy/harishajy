@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> BACKGROUND IMAGE </title>
+<style>
+       body{
+		background-image: url("PIC.jpeg");
+        }  
+</style>
+</head>
+<body>THE BIM</body>
+</html>

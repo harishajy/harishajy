@@ -1,0 +1,26 @@
+/* CSS FLOAT AND CLEAR*/
+body
+{
+	font size:24px;
+}
+#block1
+{
+	width:50%;
+	height:400px;
+	background-color:yellow;
+	float:right;
+}
+#block2
+{
+	width:50%;
+	height:400px;
+	background-color:red;
+	float:left;
+}
+#block3
+{
+	width:100%;
+	height:100px;
+	background-color:black;
+	clear:both;
+}
